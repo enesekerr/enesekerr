@@ -1,9 +1,9 @@
 ### Hi there,I'm Enes👋
 
-## Student at Bulent Ecevit University - Computer Engineering
+## Backend Developer - Computer Engineer
 
 
-I'm studying computer engineering at Bulent Ecevit University.I have interest in new technologies and software programming. My purpose is to improve myself in the IT sector.
+I'm a Computer Engineering graduate experienced in Java, Spring Boot, React, and modern web/mobile application development. I'm passionate about new technologies and software development, and I’m eager to continuously improve myself and contribute to impactful backend projects in the IT industry.
 
 ####  contact me via the links in my profile
 
