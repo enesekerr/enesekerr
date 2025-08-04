@@ -10,6 +10,13 @@ I'm a Computer Engineering graduate experienced in Java, Spring Boot, React, and
 
 
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=enesekerr&show_icons=true&theme=tokyonight" alt="Enes Eker's GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=enesekerr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesekerr&layout=compact&theme=tokyonight)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
