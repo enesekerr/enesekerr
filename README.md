@@ -1,6 +1,6 @@
 ### Hi there,I'm Enes👋
 
-## Backend Developer - Computer Engineer
+## Full-Stack Developer - Computer Engineer
 
 
 I'm a Computer Engineering graduate experienced in Java, Spring Boot, React, and modern web/mobile application development. I'm passionate about new technologies and software development, and I’m eager to continuously improve myself and contribute to impactful backend projects in the IT industry.
